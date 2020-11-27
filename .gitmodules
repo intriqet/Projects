@@ -7,3 +7,6 @@
 [submodule "pybv1.1"] 
  	path = pybv1.1
   	url = https://github.com/intriqet/pybv1.1
+[submodule "pyWiFi-ESP8266"] 
+ 	path = pyWiFi-ESP8266
+  	url = https://github.com/intriqet/pyWiFi-ESP8266
