@@ -10,3 +10,9 @@
 [submodule "pyWiFi-ESP8266"] 
  	path = pyWiFi-ESP8266
   	url = https://github.com/intriqet/pyWiFi-ESP8266
+[submodule "beagleboard"]
+	path = beagleboard
+	url = https://github.com/intriqet/beagleboard
+[submodule "efm32"]
+	path = efm32
+	url = https://github.com/intriqet/efm32
